@@ -31,17 +31,7 @@ This project focuses on implementing and evaluating **Logistic Regression** and 
    ```bash
    jupyter notebook
    ```
-
-## 📊 Model Evaluation Metrics
-- **Accuracy**
-- **Precision, Recall, F1-score**
-- **Confusion Matrix**
-- **ROC Curve & AUC Score**
-
-## 💡 Future Improvements
-- Implement hyperparameter tuning
-- Add more advanced ML models (e.g., XGBoost, SVM)
-- Deploy models using Flask or FastAPI
+   
 
 ## 🤝 Contributing
 Feel free to **fork, contribute**, or **raise issues** for improvements. Suggestions are always welcome! 😊
